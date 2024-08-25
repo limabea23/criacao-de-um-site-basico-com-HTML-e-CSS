@@ -1,0 +1,96 @@
+body{
+    background-color: #FFC0CB;
+    color: #333;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+nav{
+    background-color: #f6156f;
+    text-align: center;
+    word-spacing: 50px;
+    padding: 15px;
+}
+nav a{
+    text-decoration: none;
+    color: #FFC0CB;
+    font-weight: bold;
+}
+p{
+    font-size: larger;
+}
+h3{
+    font-size: large;
+}
+img{
+    width: 1484px;
+    border-radius: 0%;
+}
+footer{
+    background-color: #f6156f;
+    text-align: center;
+    padding: 1px;
+    margin-top: auto; 
+}
+footer a{
+    text-decoration: none;
+    color: #333;
+}
+.container,
+.container2,
+.container3,
+.container4{
+    padding: 20px;
+    background-color: #f17fbe;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.album,
+.album2,
+.album3{
+        padding: 20px;
+        background-color: #f17fbe;
+        border-radius: 10px;
+        margin-bottom: 20px;
+}
+.album img,
+.album2 img,
+.album3 img{
+    width: 200px;
+    border-radius: 5%;
+    margin-bottom: 20px;
+}
+fieldset{
+    background-color: #fcadba;
+    padding: 20px;
+    margin: 20px auto;
+}
+legend{
+    font-size: large;
+}
+label {
+    display: block; 
+    margin-bottom: 5px; 
+    font-weight: bold;
+}
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%; 
+    padding: 10px; 
+    border-radius: 5px; 
+    margin-bottom: 20px; 
+    box-sizing: border-box; 
+}
+button[type="submit"] {
+    background-color: #f1e7ec; 
+    border-radius: 5px;
+}
+.oficiais{
+    padding: 20px;
+        background-color: #f17fbe;
+        border-radius: 10px;
+        margin-bottom: 20px;
+}
+.oficiais a{
+    text-decoration: none;
+    color: #333;
+}
